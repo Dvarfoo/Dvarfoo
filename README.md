@@ -1,5 +1,4 @@
-El rasha mcqueen
-https://pl.namemc.com/profile/Dvarfoo.1
+learning python I guess.
 
 <!---
 Dvarfoo/Dvarfoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
